@@ -1,0 +1,227 @@
+BEGIN:VCALENDAR
+BEGIN:VEVENT
+SUMMARY:The first day of instruction for the term.
+DTSTART:20240108T000000
+DTEND:20240108T000000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Accepting Faculty/Staff tuition fee waiver forms.
+DTSTART:20240108T000000
+DTEND:20240108T000000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Late registration begins. ($25.00 Late Registration Fee Charged).
+DTSTART:20240108T000000
+DTEND:20240108T000000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Deadline for term withdrawal from WSU with full refund (less term 
+ withdrawal fee)
+DTSTART:20240114T000000
+DTEND:20240114T000000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day students may add a course on-line. (Classes added after t
+ his date require appropriate signatures.)
+DTSTART:20240114T000000
+DTEND:20240114T000000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Martin Luther King Jr Day--ALL UNIVERSITY HOLIDAY
+DTSTART:20240115T000000
+DTEND:20240115T000000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day a student may receive a refund for special course fees.
+DTSTART:20240119T000000
+DTEND:20240119T000000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Deadline for enrollment prior to $100 late registration fee.
+DTSTART:20240119T000000
+DTEND:20240119T000000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day to accept Faculty/Staff tuition fee waiver forms to add c
+ ourses for faculty\, staff\, and state employees under the tuition waiver.
+DTSTART:20240119T000000
+DTEND:20240119T000000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Deadline to pay unpaid tuition and mandatory fees or a 3% late fee
+  will be assessed.
+DTSTART:20240125T000000
+DTEND:20240125T000000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day to change enrollment from letter graded to pass/fail.
+DTSTART:20240126T000000
+DTEND:20240126T000000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day to change enrollment from credit to audit and audit to cr
+ edit.
+DTSTART:20240126T000000
+DTEND:20240126T000000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Deadline for dropping a course without record. (Course withdrawals
+  after this date  are recorded on the student's transcript).
+DTSTART:20240206T000000
+DTEND:20240206T000000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Deadline to pay unpaid tuition and mandatory fees or a 5% late fee
+  will be assessed.
+DTSTART:20240206T000000
+DTEND:20240206T000000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day to file residency application.
+DTSTART:20240206T000000
+DTEND:20240206T000000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:President's Day--CLASS HOLIDAY\nAll University Offices will remain
+  open.
+DTSTART:20240219T000000
+DTEND:20240219T000000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Deadline to pay unpaid tuition and mandatory fees or a 7% late fee
+  will be assessed.
+DTSTART:20240221T000000
+DTEND:20240221T000000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mid-term grade submission ends. Required for students enrolled in 
+ undergraduate courses See Rule 88.
+DTSTART:20240228T000000
+DTEND:20240228T000000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day to apply for a Graduate Certificate/Degree. No extensions
+ \, no late fees.
+DTSTART:20240301T000000
+DTEND:20240301T000000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Deadline to apply for a Graduate Degree. Late fees are applied aft
+ er this date. Please see Graduate School Deadlines for more information.
+DTSTART:20240301T000000
+DTEND:20240301T000000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day to apply for May 2024 undergraduate or professional degre
+ e or certificate without incurring a late fee.  After this date an additio
+ nal fee of $75 is assessed.
+DTSTART:20240301T000000
+DTEND:20240301T000000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Priority Registration Begins For Summer
+DTSTART:20240304T000000
+DTEND:20240304T000000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spring vacation begins.
+DTSTART:20240311T000000
+DTEND:20240311T000000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spring vacation ends.
+DTSTART:20240315T000000
+DTEND:20240315T000000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day for graduate students to submit completed Exam Scheduling
+  form (via portal by department).
+DTSTART:20240405T000000
+DTEND:20240405T000000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Priority Registration Begins For Fall
+DTSTART:20240408T000000
+DTEND:20240408T000000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Deadline for undergraduate and professional students to withdraw f
+ rom a course (see Rule 68). Withdrawals do not reduce tuition charges.
+DTSTART:20240412T000000
+DTEND:20240412T000000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day to take final examination for an advanced degree.
+DTSTART:20240419T000000
+DTEND:20240419T000000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day to add a course for this term with appropriate signatures
+ .
+DTSTART:20240426T000000
+DTEND:20240426T000000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Deadline for term withdrawal from WSU (see Rule 70b)
+DTSTART:20240426T000000
+DTEND:20240426T000000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Deadline to change from pass/fail to letter graded.
+DTSTART:20240426T000000
+DTEND:20240426T000000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day to apply for a May 2024 undergraduate or professional deg
+ ree or certificate with $75 late fee.  After this date the late fee increa
+ ses to $150.
+DTSTART:20240426T000000
+DTEND:20240426T000000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The last day of instruction for the term.
+DTSTART:20240426T000000
+DTEND:20240426T000000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Final examinations begin.
+DTSTART:20240429T000000
+DTEND:20240429T000000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Final examinations end.
+DTSTART:20240503T000000
+DTEND:20240503T000000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Commencement.
+DTSTART:20240504T000000
+DTEND:20240504T000000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Final grade submission ends.
+DTSTART:20240507T000000
+DTEND:20240507T000000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Final Grades available. Students may select "Grades" under the aca
+ demics tab via myWSU. Students may also order an official transcript at ww
+ w.transcripts.wsu.edu.
+DTSTART:20240508T000000
+DTEND:20240508T000000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day to apply for a May 2024 undergraduate or professional deg
+ ree or certificate with $150 late fee.
+DTSTART:20240607T000000
+DTEND:20240607T000000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day for undergraduate or professional students to have all re
+ quirements completed to be considered a candidate for the May 2024 class. 
+  If requirements are not complete by this date the graduation application 
+ will become in active.
+DTSTART:20240614T000000
+DTEND:20240614T000000
+END:VEVENT
+END:VCALENDAR
